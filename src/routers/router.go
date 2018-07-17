@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"GodVoiceDaily/controllers"
+	"controllers"
 	"github.com/astaxie/beego"
 )
 

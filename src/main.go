@@ -1,11 +1,10 @@
 package main
 
 import (
-	_ "GodVoiceDaily/routers"
+	_ "routers"
 	"github.com/astaxie/beego"
 )
 
 func main() {
 	beego.Run()
 }
-
